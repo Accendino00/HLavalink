@@ -1,6 +1,6 @@
 server:
   port: 80
-  address: https://lavalinkpart2.herokuapp.com/
+  address: 0.0.0.0
 spring:
   main:
     banner-mode: log
