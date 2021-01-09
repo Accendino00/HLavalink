@@ -1,6 +1,6 @@
 server:
   port: 80
-  address: https://lavalinkbot69.herokuapp.com/
+  address: https://lavalinkpart2.herokuapp.com/
 spring:
   main:
     banner-mode: log
